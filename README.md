@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ngoctranpl
 - 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning data analytics by Google on Coursera.
+- 🌱 I’m currently learning CS50p.
 - 💞️ I’m looking to collaborate on this field.
 - 📫 How to reach me? Here on Github 😊
 
